@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "811875799305",
+    "firebase_url": "https://firebase-toy-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "firebase-toy",
+    "storage_bucket": "firebase-toy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811875799305:android:f2510c1fa4bfe52b5683d8",
+        "android_client_info": {
+          "package_name": "com.echadworks.firebase.toy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811875799305-8598gptbik7c9tr5v7fierdkhg6jv6e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXHC0O-LhWMr3qbrD7zUrxFirjcFWZuwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811875799305-8598gptbik7c9tr5v7fierdkhg6jv6e9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811875799305-05no0vshi79sldhh56laste4nut6489f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseToy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811875799305:android:0243937db01e2ad05683d8",
+        "android_client_info": {
+          "package_name": "com.echadworks.firebase_toy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811875799305-8598gptbik7c9tr5v7fierdkhg6jv6e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXHC0O-LhWMr3qbrD7zUrxFirjcFWZuwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811875799305-8598gptbik7c9tr5v7fierdkhg6jv6e9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811875799305-05no0vshi79sldhh56laste4nut6489f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseToy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
